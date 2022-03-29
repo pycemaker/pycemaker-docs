@@ -50,7 +50,7 @@ Projeto API - 6º Semestre
 | Sprint 1                                                          | Conclusão |
 |:----------------------------------------------------------------- | --------- |
 | Implementar a aplicação do formulário                             |           |
-| Envio e-mails estatísticos e analíticos com níveis de criticidade |           |
+| Envio de e-mails estatísticos e analíticos com níveis de criticidade |           |
 | Dashboard de monitoramento auxiliar                               |           |
 
 
