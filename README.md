@@ -49,11 +49,9 @@ Projeto API - 6º Semestre
 
 | Sprint 1                                                          | Conclusão |
 |:----------------------------------------------------------------- | --------- |
-| Implementar aplicação do formulário em SpringBoot
- e Frontend SPA com Vue.js.                            |           |
+| Implementar aplicação do formulário em SpringBoot e Frontend SPA com Vue.js.                       |           |
 | Envio de e-mails estatísticos e analíticos com níveis de criticidade |           |
 | Dashboard de monitoramento auxiliar                               |           |
-| Desenvolver modelo inicial em Machine Learning da aplicação para prevenção de riscos. |           |
 
 
 
