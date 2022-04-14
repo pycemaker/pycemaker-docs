@@ -93,7 +93,7 @@ Projeto API - 6º Semestre
 # 🏭 Releases
 | Sprint   | Aplicação | Versão                                                                    |
 | -------- | --------- | ------------------------------------------------------------------------- |
-| Sprint 1 | form-server | [1.0.0]() |
+| Sprint 1 | form-server | [1.0.0](https://github.com/pycemaker/pycemaker-form-server/tree/1.0.0) |
 | Sprint 1 | form-client | [1.0.0]() |
 | Sprint 1 | dashboard-client | [1.0.0]() |
 | Sprint 1 | dashboard-api | [1.0.0](https://github.com/pycemaker/pycemaker-dashboard-api/tree/1.0.0) |
