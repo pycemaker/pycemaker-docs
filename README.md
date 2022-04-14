@@ -1,7 +1,6 @@
-# Pycemaker
-Projeto API - 6º Semestre
-</br>
 
+#  🐍 Pycemaker - Repositório da Documentação
+Projeto API - 6º Semestre
 
 # 🎓Team  
 
@@ -34,24 +33,31 @@ Projeto API - 6º Semestre
 
 # 📦 Repositórios integrantes do projeto
 
-| Repositório                                                              | Descrição                          |
-| ------------------------------------------------------------------------ | ---------------------------------- |
-| [pycemaker-docs]()| Documentação|
-| [pycemaker-front]()| Aplicação Front-End|
-| [pycemaker-back]()| Aplicação Back-End|
+| Repositório                                                                                   | Descrição                   |
+| --------------------------------------------------------------------------------------------- | --------------------------- |
+| [pycemaker-docs](https://github.com/pycemaker/pycemaker-docs)                                 | Apresentação e documentação |
+| [pycemaker-dashboard-client](https://github.com/pycemaker/pycemaker-dashboard-client)         | Front-End Dashboard         |
+| [pycemaker-dashboard-api](https://github.com/pycemaker/pycemaker-dashboard-api)               | API para Dashboard          |
+| [pycemaker-dashboard-middleware](https://github.com/pycemaker/pycemaker-dashboard-middleware) | ETL e Scheduler             |
+| [pycemaker-form-client](https://github.com/pycemaker/pycemaker-form-client)                   | Front-End para Formuário    |
+| [pycemaker-form-server](https://github.com/pycemaker/pycemaker-form-server)                   | Api para Formuário          |
+
 
 <br>
 
 # 🧰 Tecnologias
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=black"> <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/flask-orange?style=for-the-badge&logo=flask&logoColor=black"> <img src="https://img.shields.io/badge/NiFi-lightblue?style=for-the-badge&logo=apache&logoColor=black"> <img src="https://img.shields.io/badge/prometheus-grey?style=for-the-badge&logo=prometheus&logoColor=black"> <img src="https://img.shields.io/badge/Vue.js-stronggreen?style=for-the-badge&logo=Vue.js&logoColor=black"> <img src="https://img.shields.io/badge/grafana-orange?style=for-the-badge&logo=grafana&logoColor=black"> <img src="https://img.shields.io/badge/postgresql-green?style=for-the-badge&logo=postgresql&logoColor=black">
+
+<img src="https://img.shields.io/badge/MongoDB-8bbf3d?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white"> 
 </br>
 
 # 📆Entregas - Funcionalidades
 
 | Sprint 1                                                          | Conclusão |
 |:----------------------------------------------------------------- | --------- |
-| Implementar aplicação do formulário em SpringBoot e Frontend SPA com Vue.js.                       |           |
-| Envio de e-mails estatísticos e analíticos com níveis de criticidade. |           |
-| Dashboard de monitoramento auxiliar.                               |           |
+| Implementar aplicação do formulário em SpringBoot e Frontend SPA com Vue.js.                       | ✔️ |
+| Envio de e-mails estatísticos e analíticos com níveis de criticidade. | ✔️ |
+| Dashboard de monitoramento auxiliar.                               | ✔️ |
 
 
 
@@ -74,26 +80,22 @@ Projeto API - 6º Semestre
 <br>
 
 # 🎯 Entrega - Sprint 1
-## ⌛ titulo do entregue
+## ⌛ Dashboard
+<img src="" width=500>
+<img src="" width=500>
+<img src="" width=500>
 </br>
 
 ## 📉 Burndown
-<img src="">
+<img src="https://i.imgur.com/7Us2t3s.png">
 </br>
 
 # 🏭 Releases
 | Sprint   | Aplicação | Versão                                                                    |
 | -------- | --------- | ------------------------------------------------------------------------- |
-| Sprint 1 | Back-End  | [1.0.0] |
-| Sprint 1 | Front-End  | [1.0.0] |
+| Sprint 1 | form-server | [1.0.0]() |
+| Sprint 1 | form-client | [1.0.0]() |
+| Sprint 1 | dashboard-client | [1.0.0]() |
+| Sprint 1 | dashboard-api | [1.0.0](https://github.com/pycemaker/pycemaker-dashboard-api/tree/1.0.0) |
+| Sprint 1 | etl-flow | [1.0.0]() |
 
-</br>
-
-# 📚 Documentações
-</br>
-<ul>
-<li>
-<a href="">Documento</a>
-</li>
-</ul>
-</br>
