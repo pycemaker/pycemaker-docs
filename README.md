@@ -86,7 +86,7 @@ Projeto API - 6º Semestre
 <img src="https://i.imgur.com/FqhliTx.png" width=500>
 </br>
 
-## 📉 Burndown
+# 📉 Burndown
 <img src="https://i.imgur.com/7Us2t3s.png">
 </br>
 
