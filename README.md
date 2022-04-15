@@ -82,7 +82,7 @@ Projeto API - 6º Semestre
 # 🎯 Entrega - Sprint 1
 ## 📊 Dashboard
 <img src="https://i.imgur.com/HcjMTQe.png" width=500>
-## 📧 E-mail
+# 📧 E-mail
 <img src="https://i.imgur.com/FqhliTx.png" width=500>
 </br>
 
