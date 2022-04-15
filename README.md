@@ -80,10 +80,10 @@ Projeto API - 6º Semestre
 <br>
 
 # 🎯 Entrega - Sprint 1
-## ⌛ Dashboard
-<img src="" width=500>
-<img src="" width=500>
-<img src="" width=500>
+## 📊 Dashboard
+<img src="https://i.imgur.com/HcjMTQe.png" width=500>
+## 📧 E-mail
+<img src="https://i.imgur.com/FqhliTx.png" width=500>
 </br>
 
 ## 📉 Burndown
@@ -94,8 +94,8 @@ Projeto API - 6º Semestre
 | Sprint   | Aplicação | Versão                                                                    |
 | -------- | --------- | ------------------------------------------------------------------------- |
 | Sprint 1 | form-server | [1.0.0](https://github.com/pycemaker/pycemaker-form-server/tree/1.0.0) |
-| Sprint 1 | form-client | [1.0.0]() |
-| Sprint 1 | dashboard-client | [1.0.0]() |
+| Sprint 1 | form-client | [1.0.0](https://github.com/pycemaker/pycemaker-form-client/tree/1.0.0) |
+| Sprint 1 | dashboard-client | [1.0.0](https://github.com/pycemaker/pycemaker-dashboard-client/tree/1.0.0) |
 | Sprint 1 | dashboard-api | [1.0.0](https://github.com/pycemaker/pycemaker-dashboard-api/tree/1.0.0) |
 | Sprint 1 | etl-flow | [1.0.0]() |
 
