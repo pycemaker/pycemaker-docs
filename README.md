@@ -24,8 +24,8 @@ Projeto API - 6º Semestre
 | Sprint                                                              | Data de Entrega |
 | ------------------------------------------------------------------- | --------------- |
 | Kick-off do Projeto | 15 de março de 2022 |
-| 👉 **Sprint 1** | 25 de março à 14 de abril de 2022  |
-| Sprint 2 | 25 de abril à 15 de maio de 2022|
+| Sprint 1 | 25 de março à 14 de abril de 2022  |
+| 👉 **Sprint 2** | 25 de abril à 15 de maio de 2022|
 | Sprint 3 | 16 de maio à 5 de junho de 2022 |
 | Feira de soluções | 15 de junho de 2022|
 
@@ -81,22 +81,18 @@ Projeto API - 6º Semestre
 
 # 🎯 Entrega - Sprint 1
 ## 📊 Dashboard
-<img src="https://i.imgur.com/HcjMTQe.png" width=500>
+<img src="https://i.imgur.com/MowpUk7.png" width=500>
 
 ## 📧 E-mail
-<img src="https://i.imgur.com/FqhliTx.png" width=500>
+<img src="https://i.imgur.com/mEg2ZoW.png" width=500>
+</br>
+
+## 📝 Cadastro e Listagem
+<img src="https://i.imgur.com/4rJvlaW.png" width=500>
+<img src="https://i.imgur.com/Q4aRbjP.png" width=500>
 </br>
 
 # 📉 Burndown
-<img src="https://i.imgur.com/7Us2t3s.png">
+<img src="https://i.imgur.com/DDAALh1.png">
 </br>
-
-# 🏭 Releases
-| Sprint   | Aplicação | Versão                                                                    |
-| -------- | --------- | ------------------------------------------------------------------------- |
-| Sprint 1 | form-server | [1.0.0](https://github.com/pycemaker/pycemaker-form-server/tree/1.0.0) |
-| Sprint 1 | form-client | [1.0.0](https://github.com/pycemaker/pycemaker-form-client/tree/1.0.0) |
-| Sprint 1 | dashboard-client | [1.0.0](https://github.com/pycemaker/pycemaker-dashboard-client/tree/1.0.0) |
-| Sprint 1 | dashboard-api | [1.0.0](https://github.com/pycemaker/pycemaker-dashboard-api/tree/1.0.0) |
-| Sprint 1 | etl-flow | [1.0.0]() |
 
