@@ -88,7 +88,7 @@ Projeto API - 6º Semestre
 
 ## 📊 Dashboard
 + Adição e demonstração do funcionamento do painel de saúde do sistema
-<img  src="https://i.imgur.com/kC0fQir.png"  width=500>
+https://user-images.githubusercontent.com/42893957/172063708-31c988ac-dce3-4170-b625-6c0b4eee3366.mp4
 
 
 ## 📧 E-mail
