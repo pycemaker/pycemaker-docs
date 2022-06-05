@@ -7,7 +7,7 @@ Projeto API - 6º Semestre
 
 **Scrum Master/Developer:** Guilherme Oliveira Pontes Alvarenga [LinkedIn](https://www.linkedin.com/in/guilherme-oliveira-14a9b8175/)
 
-**Product Owner/Developer:** Guilherme Madeira da Silveira [LikedIn](https://www.linkedin.com/in/guilherme-madeira-b317ab17b/)
+**Product Owner/Developer:** Mateus Prestes Teodoro Alves [LinkedIn](https://www.linkedin.com/in/mateus-prestes-11569118a/)
 
 **Developer:** Pedro Cruz Oliveira Araújo [LinkedIn](https://www.linkedin.com/in/pedro-cruz77/)
 
@@ -15,7 +15,7 @@ Projeto API - 6º Semestre
 
 **Developer:** Diego Rodrigo da Silva [LinkedIn](https://www.linkedin.com/in/diego-s-7a97a4186/)
 
-**Developer:** Mateus Prestes Teodoro Alves [LinkedIn](https://www.linkedin.com/in/mateus-prestes-11569118a/)
+**Developer:** Guilherme Madeira da Silveira [LikedIn](https://www.linkedin.com/in/guilherme-madeira-b317ab17b/)
 
 **Developer:** Davi Silva Martins das Neves [LinkedIn](https://www.linkedin.com/in/davi-neves-a50573201/)
 </br>
@@ -88,7 +88,7 @@ Projeto API - 6º Semestre
 
 ## 📊 Dashboard
 + Adição e demonstração do funcionamento do painel de saúde do sistema
-[![pycemaker dashboard](https://i.imgur.com/kC0fQir.png)](https://user-images.githubusercontent.com/42893957/172063708-31c988ac-dce3-4170-b625-6c0b4eee3366.mp4)
+<img  src="https://i.imgur.com/gg6UUhV.gif"  width=500>
 
 
 ## 📧 E-mail
